@@ -3,3 +3,6 @@
 我改了，但是不提交，等待测试。我要解决其他问题了，切一个其他分支
 
 我改了master分支 我在mydev1上改了master
+
+2  
+我改了master分支 我在mydev1上改了master
