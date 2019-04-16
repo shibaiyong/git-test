@@ -1,1 +1,3 @@
 #git rm -r --cached . 解决文件不能被忽略的问题
+
+/father/children1
